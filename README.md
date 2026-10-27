@@ -84,7 +84,7 @@ py -3.9 verify_patch.py UVR_zh_CN.exe zh_CN
 
 ## 已知限制
 
-1. **运行路径必须纯 ASCII。** exe 用 ANSI 接口写 `TCL_LIBRARY` / `sys._MEIPASS`，路径含非 ASCII 字符（例如 `E:\剪辑\...`）会被写成 `???`，导致 `init.tcl` 找不到、或 `Error loading Python DLL ... LoadLibrary: 找不到指定的模块`。这正是最终把整个程序放在 `D:\UVR5_zh_CN` 的原因 —— 目录名、盘符之后的所有层级都要是英文。
+1. **运行路径必须纯 ASCII。** exe 用 ANSI 接口写 `TCL_LIBRARY` / `sys._MEIPASS`，路径含非 ASCII 字符（例如 `E:\视频剪辑\...`）会被写成 `???`，导致 `init.tcl` 找不到、或 `Error loading Python DLL ... LoadLibrary: 找不到指定的模块`。这正是最终把整个程序放在 `D:\UVR5_zh_CN` 的原因 —— 目录名、盘符之后的所有层级都要是英文。
 2. **只改显示用字符串常量**，不改任何逻辑、比较分支或文件路径；同时被用于比较的字符串一律进 `tr_exclude.json` 保持英文。
 3. 不翻译资源文件、模型名、第三方库内部的文本。
 

@@ -190,7 +190,8 @@ def main():
     report_path = pb.path_in_workdir(f'patch_report_{language}.json')
     if os.path.exists(report_path):
         report = json.load(open(report_path, encoding='utf-8'))
-        if os.path.abspath(report['output']) == os.path.abspath(patched_path):
+        # Reports store bare file names, so match on the name, not the directory.
+        if os.path.basename(report['output']) == os.path.basename(patched_path):
             check(report['replacements_total'] == total_changed,
                   f'report agrees with the file: {report["replacements_total"]} replacements')
         else:

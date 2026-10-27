@@ -333,10 +333,12 @@ def build(out_exe, language):
     if check['cookie'][4] != ca['cookie'][4]:
         raise SystemExit('rebuilt archive changed the python version field')
 
+    # Paths are recorded as bare file names so a report carries no information
+    # about the machine that produced it.
     report = {
-        'output': os.path.abspath(out_exe),
+        'output': os.path.basename(out_exe),
         'language': language,
-        'source': SRC_EXE,
+        'source': os.path.basename(SRC_EXE),
         'replacements_exact': stats['exact'],
         'replacements_case_insensitive': stats['caps'],
         'replacements_total': stats['exact'] + stats['caps'],

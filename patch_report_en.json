@@ -1,7 +1,7 @@
 {
- "output": "E:\\剪辑\\10-26\\.agent\\uvr_work\\UVR_en.exe",
+ "output": "UVR_en.exe",
  "language": "en",
- "source": "E:/UVR5/UVR.exe",
+ "source": "UVR.exe",
  "replacements_exact": 0,
  "replacements_case_insensitive": 0,
  "replacements_total": 0,
