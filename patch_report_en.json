@@ -1,0 +1,21 @@
+{
+ "output": "E:\\剪辑\\10-26\\.agent\\uvr_work\\UVR_en.exe",
+ "language": "en",
+ "source": "E:/UVR5/UVR.exe",
+ "replacements_exact": 0,
+ "replacements_case_insensitive": 0,
+ "replacements_total": 0,
+ "per_module": [
+  {
+   "module": "UVR",
+   "replacements": 0
+  },
+  {
+   "module": "gui_data.constants",
+   "replacements": 0
+  }
+ ],
+ "source_size": 26047596,
+ "output_size": 26047098,
+ "collisions": {}
+}

@@ -1,0 +1,28 @@
+# 构建产物：只有体积大的 exe 与其反编译中间目录不进库
+*.exe
+*.tmp
+
+# PyInstaller / PYZ 提取产物
+pyz_out/
+*_extracted/
+*.pyc
+__pycache__/
+
+# 反编译分析中间结果
+*.analysis.json
+inventory.json
+const_assigns.json
+constants_module.txt
+uvr_funcs.txt
+audit_*.txt
+todo*.json
+todo*.txt
+translate_list.*
+candidates*.json
+final_candidates.json
+final_candidates.txt
+allcaps_names.json
+
+# 运行期临时目录
+tmp/
+ensemble_temps/

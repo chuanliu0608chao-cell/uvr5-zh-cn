@@ -1,0 +1,2791 @@
+{
+ "all": {
+  "arm": [
+   "stored"
+  ],
+  "cpu": [
+   "stored"
+  ],
+  "cuda": [
+   "stored"
+  ],
+  "privateuseone": [
+   "stored"
+  ],
+  "─────────────────────────": [
+   "stored"
+  ],
+  "#0e0e0f": [
+   "stored"
+  ],
+  "#13849f": [
+   "stored"
+  ],
+  "VR Arc": [
+   "stored"
+  ],
+  "MDX-Net": [
+   "stored"
+  ],
+  "Demucs": [
+   "stored"
+  ],
+  "VR Architecture": [
+   "stored"
+  ],
+  "Ensemble Mode": [
+   "stored"
+  ],
+  "Ensemble Stem": [
+   "stored"
+  ],
+  "Secondary Model": [
+   "compared",
+   "stored"
+  ],
+  "htdemucs_6s": [
+   "stored"
+  ],
+  "Default": [
+   "stored"
+  ],
+  "Alignment Tool Options": [
+   "stored"
+  ],
+  "SINGLE_FILE": [
+   "stored"
+  ],
+  "MULTI_FILE": [
+   "stored"
+  ],
+  "MAIN_MULTI_FILE": [
+   "stored"
+  ],
+  "CHOOSE_EXPORT_FIR": [
+   "stored"
+  ],
+  "dual": [
+   "stored"
+  ],
+  "fourstem": [
+   "stored"
+  ],
+  "Any Stem": [
+   "stored"
+  ],
+  "Demucs v3": [
+   "stored"
+  ],
+  "Demucs v4": [
+   "stored"
+  ],
+  "v1": [
+   "stored"
+  ],
+  "v2": [
+   "stored"
+  ],
+  "v3": [
+   "stored"
+  ],
+  "v4": [
+   "stored"
+  ],
+  "v1 | ": [
+   "stored"
+  ],
+  "v2 | ": [
+   "stored"
+  ],
+  "v3 | ": [
+   "stored"
+  ],
+  "v4 | ": [
+   "stored"
+  ],
+  "Download Failed": [
+   "stored"
+  ],
+  "Download Stopped": [
+   "stored"
+  ],
+  "Download Complete": [
+   "stored"
+  ],
+  "Update Download Complete": [
+   "stored"
+  ],
+  "exit": [
+   "stored"
+  ],
+  "No Internet Connection": [
+   "stored"
+  ],
+  "VIP:": [
+   "stored"
+  ],
+  "All Available Models Downloaded": [
+   "stored"
+  ],
+  ": ": [
+   "stored"
+  ],
+  "No Model Selected": [
+   "stored"
+  ],
+  "Choose Model": [
+   "stored"
+  ],
+  "Downloading Item 1/1...": [
+   "stored"
+  ],
+  "Downloading Item": [
+   "stored"
+  ],
+  "File already exists!": [
+   "stored"
+  ],
+  "Downloading Update...": [
+   "stored"
+  ],
+  "Download More Models": [
+   "stored"
+  ],
+  "is_karaoke": [
+   "stored"
+  ],
+  "is_bv_model": [
+   "stored"
+  ],
+  "is_bv_model_rebalanced": [
+   "stored"
+  ],
+  "Input Stem Name": [
+   "stored"
+  ],
+  "Auto": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/filelists/download_checks.json": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/model_data_new.json": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/vr_model_data/model_data_new.json": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/bulletin.txt": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/demucs_model_data/model_name_mapper.json": [
+   "stored"
+  ],
+  "https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/model_name_mapper.json": [
+   "stored"
+  ],
+  "https://www.buymeacoffee.com/uvr5": [
+   "stored"
+  ],
+  "https://www.patreon.com/uvr": [
+   "stored"
+  ],
+  "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/": [
+   "stored"
+  ],
+  "https://github.com/TRvlvr/model_repo/releases/download/uvr_update_patches/": [
+   "stored"
+  ],
+  "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_MacOS_arm64.dmg": [
+   "stored"
+  ],
+  "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_MacOS_x86_64.dmg": [
+   "stored"
+  ],
+  "https://github.com/Anjok07/ultimatevocalremovergui#linux-installation": [
+   "stored"
+  ],
+  "https://github.com/Anjok07/ultimatevocalremovergui/issues/new": [
+   "stored"
+  ],
+  "incorrect_code": [
+   "stored"
+  ],
+  ".onnx": [
+   "stored"
+  ],
+  ".ckpt": [
+   "stored"
+  ],
+  ".ckptc": [
+   "stored"
+  ],
+  ".yaml": [
+   "stored"
+  ],
+  ".pth": [
+   "stored"
+  ],
+  ".th": [
+   "stored"
+  ],
+  ".json": [
+   "stored"
+  ],
+  "Start Processing": [
+   "stored"
+  ],
+  "Please wait...": [
+   "stored"
+  ],
+  "Halting process, please wait...": [
+   "stored"
+  ],
+  "Loading models...": [
+   "stored"
+  ],
+  "missing": [
+   "stored"
+  ],
+  "present": [
+   "stored"
+  ],
+  "All Stems": [
+   "stored"
+  ],
+  "Vocals": [
+   "stored"
+  ],
+  "Instrumental": [
+   "stored"
+  ],
+  "Other": [
+   "stored"
+  ],
+  "Bass": [
+   "stored"
+  ],
+  "Drums": [
+   "stored"
+  ],
+  "Guitar": [
+   "stored"
+  ],
+  "Piano": [
+   "stored"
+  ],
+  "Synthesizer": [
+   "stored"
+  ],
+  "Strings": [
+   "stored"
+  ],
+  "Woodwinds": [
+   "stored"
+  ],
+  "Brass": [
+   "stored"
+  ],
+  "Wind Inst": [
+   "stored"
+  ],
+  "No Other": [
+   "stored"
+  ],
+  "No Bass": [
+   "stored"
+  ],
+  "No Drums": [
+   "stored"
+  ],
+  "No Guitar": [
+   "stored"
+  ],
+  "No Piano": [
+   "stored"
+  ],
+  "No Synthesizer": [
+   "stored"
+  ],
+  "No Strings": [
+   "stored"
+  ],
+  "No Woodwinds": [
+   "stored"
+  ],
+  "No Wind Inst": [
+   "stored"
+  ],
+  "No Brass": [
+   "stored"
+  ],
+  "Primary Stem": [
+   "stored"
+  ],
+  "Secondary Stem": [
+   "stored"
+  ],
+  "lead_only": [
+   "stored"
+  ],
+  "backing_only": [
+   "stored"
+  ],
+  "with_lead_vocals": [
+   "stored"
+  ],
+  "with_backing_vocals": [
+   "stored"
+  ],
+  "Lead Vocals": [
+   "stored"
+  ],
+  "Backing Vocals": [
+   "stored"
+  ],
+  "save_only_inst": [
+   "stored"
+  ],
+  "save_only_voc": [
+   "stored"
+  ],
+  "UVR_Model": [
+   "stored"
+  ],
+  "Choose Stem Pair": [
+   "stored"
+  ],
+  "No ": [
+   "stored"
+  ],
+  "4 Stem Ensemble": [
+   "stored"
+  ],
+  "Multi-stem Ensemble": [
+   "stored"
+  ],
+  "Min Spec": [
+   "stored"
+  ],
+  "Max Spec": [
+   "stored"
+  ],
+  "Average": [
+   "stored"
+  ],
+  "Batch Mode": [
+   "stored"
+  ],
+  "BETA": [
+   "stored"
+  ],
+  "User Input": [
+   "stored"
+  ],
+  "─────────────────────────────────────────────────────────────────": [
+   "stored"
+  ],
+  "Audio Tools": [
+   "stored"
+  ],
+  "Manual Ensemble": [
+   "stored"
+  ],
+  "Time Stretch": [
+   "stored"
+  ],
+  "Change Pitch": [
+   "stored"
+  ],
+  "Align Inputs": [
+   "stored"
+  ],
+  "Matchering": [
+   "stored"
+  ],
+  "Combine Inputs": [
+   "stored"
+  ],
+  "Windows": [
+   "compared"
+  ],
+  "Darwin": [
+   "compared"
+  ],
+  "None": [
+   "stored"
+  ],
+  "Shifts: Very Low": [
+   "stored"
+  ],
+  "Shifts: Low": [
+   "stored"
+  ],
+  "Shifts: Medium": [
+   "stored"
+  ],
+  "Shifts: High": [
+   "stored"
+  ],
+  "Shifts: Very High": [
+   "stored"
+  ],
+  "Shifts: Maximum": [
+   "stored"
+  ],
+  "Save Ensemble": [
+   "stored"
+  ],
+  "Clear Selection(s)": [
+   "stored"
+  ],
+  "•••••••••••••••••••••••••••••••••••": [
+   "stored"
+  ],
+  "Choose Option": [
+   "stored"
+  ],
+  "ALL": [
+   "stored"
+  ],
+  "Invalid Input, Please Try Again": [
+   "stored"
+  ],
+  "1. Only letters, numbers, spaces, and dashes allowed.\n2. No dashes or spaces at the start or end of input.": [
+   "stored"
+  ],
+  "1. Only words with no spaces are allowed.\n2. No spaces, numbers, or special characters.": [
+   "stored"
+  ],
+  "ensemble check": [
+   "stored"
+  ],
+  "kara check": [
+   "stored"
+  ],
+  "Automatic": [
+   "stored"
+  ],
+  "Positive Phase": [
+   "stored"
+  ],
+  "Negative Phase": [
+   "stored"
+  ],
+  "Native Phase": [
+   "stored"
+  ],
+  "Select Saved Ensemble": [
+   "stored"
+  ],
+  "Select Saved Setting": [
+   "stored"
+  ],
+  "Ensemble Customization Options": [
+   "stored"
+  ],
+  "Advanced MDX-Net Options": [
+   "stored"
+  ],
+  "Advanced Demucs Options": [
+   "stored"
+  ],
+  "Advanced VR Options": [
+   "stored"
+  ],
+  "Open Information Guide": [
+   "stored"
+  ],
+  "Open Error Log": [
+   "stored"
+  ],
+  "Verifying file ": [
+   "stored"
+  ],
+  "Creating Sample ": [
+   "stored"
+  ],
+  "Model Missing:": [
+   "stored"
+  ],
+  "VR Menu": [
+   "stored"
+  ],
+  "Demucs Menu": [
+   "stored"
+  ],
+  "MDX-Net Menu": [
+   "stored"
+  ],
+  "Ensemble Menu": [
+   "stored"
+  ],
+  "Help Menu": [
+   "stored"
+  ],
+  "Error Log": [
+   "stored"
+  ],
+  "Inputs Menu": [
+   "stored"
+  ],
+  "Align Menu": [
+   "stored"
+  ],
+  ": Playing": [
+   "stored"
+  ],
+  ": Paused": [
+   "stored"
+  ],
+  ": Stopped": [
+   "stored"
+  ],
+  "Selected": [
+   "stored"
+  ],
+  "Detected": [
+   "stored"
+  ],
+  "WAV": [
+   "stored"
+  ],
+  "FLAC": [
+   "stored"
+  ],
+  "MP3": [
+   "stored"
+  ],
+  "Save Current Settings": [
+   "stored"
+  ],
+  "Reset to Default": [
+   "stored"
+  ],
+  "Reset All Application Settings to Default": [
+   "stored"
+  ],
+  "_time_stretched": [
+   "stored"
+  ],
+  "_pitch_shifted": [
+   "stored"
+  ],
+  "^[-+]?(1[0]|[0-9]([.][0-9]*)?)$": [
+   "stored"
+  ],
+  "^[+]?(1[0]|[0-9]([.][0-9]*)?)$": [
+   "stored"
+  ],
+  "\\b^(1[0]|[0-9]([.][0-9]*)?|Auto|None)$\\b": [
+   "stored"
+  ],
+  "\\b^([0]([.][0-9]{0,6})?)$\\b": [
+   "stored"
+  ],
+  "\\b^(200|1[0-9][0-9]|[1-9][0-9]?|Auto|Full)$\\b": [
+   "stored"
+  ],
+  "\\b^[0-9]*$\\b": [
+   "stored"
+  ],
+  "\\b^(200|1[0-9][0-9]|[1-9][0-9]?|Default)$\\b": [
+   "stored"
+  ],
+  "\\b^([a-zA-Z0-9 -]{0,25})$\\b": [
+   "stored"
+  ],
+  "^(Wind Inst|[a-zA-Z]{1,25})$": [
+   "stored"
+  ],
+  "^-?(20\\.00|[01]?\\d(\\.\\d{1,2})?|20)$": [
+   "stored"
+  ],
+  "^[-+]?[0-9]\\d*?$": [
+   "stored"
+  ],
+  "\\b^[0-9]{0,4}$\\b": [
+   "stored"
+  ],
+  "\\b^([0-9]*?|Default)$\\b": [
+   "stored"
+  ],
+  "\\b^([0]([.][0-9]{0,6})?|Default)$\\b": [
+   "stored"
+  ],
+  "\\b^([1][0-9]|[2-9][0-9]*|Default)$\\b": [
+   "stored"
+  ],
+  "^\\d+\\.\\d{1,9}$": [
+   "stored"
+  ],
+  "Load for VR Arch": [
+   "stored"
+  ],
+  "Load for MDX-Net": [
+   "stored"
+  ],
+  "Load for Demucs": [
+   "stored"
+  ],
+  "Load for Full Application": [
+   "stored"
+  ],
+  "\n\n": [
+   "stored"
+  ],
+  "\n": [
+   "stored"
+  ],
+  "": [
+   "stored"
+  ],
+  "} {": [
+   "stored"
+  ],
+  "}": [
+   "stored"
+  ],
+  "{": [
+   "stored"
+  ],
+  "0ec76fd9e65f81d8b4fbd13af4826ed8": [
+   "stored"
+  ],
+  "readonly": [
+   "stored"
+  ],
+  "file1": [
+   "stored"
+  ],
+  "file2": [
+   "stored"
+  ],
+  "file1_lb": [
+   "stored"
+  ],
+  "file1_2b": [
+   "stored"
+  ],
+  " : Batch Mode": [
+   "stored"
+  ],
+  "Place models in \"models/VR_Models\" directory.": [
+   "stored"
+  ],
+  "Place models in \"models/MDX_Net_Models\" directory.": [
+   "stored"
+  ],
+  "Place models in \"models/Demucs_Models\" directory.": [
+   "stored"
+  ],
+  "Place items in \"models/Demucs_Models/v3_v4_repo\" directory.": [
+   "stored"
+  ],
+  "MDX23C Model": [
+   "stored"
+  ],
+  "• This application is intended for those running macOS Catalina and above.\n• Application functionality for systems running macOS Mojave or lower is not guaranteed.\n• Application functionality for older or budget Mac systems is not guaranteed.\n\n": [
+   "stored"
+  ],
+  "Linux": [
+   "compared"
+  ],
+  "• This application is intended for those running Linux Ubuntu 18.04+.\n• Application functionality for systems running other Linux platforms is not guaranteed.\n• Application functionality for older or budget systems is not guaranteed.\n\n": [
+   "stored"
+  ],
+  "• This application is intended for those running Windows 10 or higher.\n• Application functionality for systems running Windows 7 or lower is not guaranteed.\n• Application functionality for Intel Pentium & Celeron CPUs systems is not guaranteed.\n\n": [
+   "stored"
+  ],
+  "\nProcess complete\n": [
+   "stored"
+  ],
+  "Process complete\n": [
+   "stored"
+  ],
+  "Back to Main Menu": [
+   "stored"
+  ],
+  "This is an internal model setting. \n\n***Avoid changing it unless you're certain about it!***": [
+   "stored"
+  ],
+  "Stops ongoing tasks.\n• A confirmation pop-up will appear before stopping.": [
+   "stored"
+  ],
+  "Accesses the main settings and the \"Download Center.\"": [
+   "stored"
+  ],
+  "Shows the status and progress of ongoing tasks.": [
+   "stored"
+  ],
+  "Load or save the app's settings.": [
+   "stored"
+  ],
+  "Choose the pitch for processing tracks:\n\n• Whole numbers indicate semitones.\n• Using higher pitches may cut the upper bandwidth, even in high-quality models.\n• Upping the pitch can be better for tracks with deeper vocals.\n• Dropping the pitch may take more processing time but works well for tracks with high-pitched vocals.": [
+   "stored"
+  ],
+  "Adjust the intensity of primary stem extraction:\n\n• It ranges from -100 - 100.\n• Bigger values mean deeper extractions.\n• Typically, it's set to 5 for vocals & instrumentals. \n• Values beyond 5 might muddy the sound for non-vocal models.": [
+   "stored"
+  ],
+  "Select window size to balance quality and speed:\n\n• 1024 - Quick but lesser quality.\n• 512 - Medium speed and quality.\n• 320 - Takes longer but may offer better quality.": [
+   "stored"
+  ],
+  "Pick a segment size to balance speed, resource use, and quality:\n• Smaller sizes consume less resources.\n• Bigger sizes consume more resources, but may provide better results.\n• Default size is 256. Quality can change based on your pick.": [
+   "stored"
+  ],
+  "Select a stem for extraction with the chosen model:\n\n• All Stems - Extracts all available stems.\n• Vocals - Only the \"vocals\" stem.\n• Other - Only the \"other\" stem.\n• Bass - Only the \"bass\" stem.\n• Drums - Only the \"drums\" stem.": [
+   "stored"
+  ],
+  "Adjust segments to manage RAM or V-RAM usage:\n\n• Smaller sizes consume less resources.\n• Bigger sizes consume more resources, but may provide better results.\n• \"Default\" picks the optimal size.": [
+   "stored"
+  ],
+  "Displays all available models for the chosen main stem pair.": [
+   "stored"
+  ],
+  "darwin": [
+   "compared"
+  ],
+  "• Use GPU for Processing (if available):\n  - If checked, the application will attempt to use your GPU for faster processing.\n  - If a GPU is not detected, it will default to CPU processing.\n  - GPU processing for MacOS only works with VR Arch models.\n\n• Please Note:\n  - CPU processing is significantly slower than GPU processing.\n  - Only Macs with M1 chips can be used for GPU processing.": [
+   "stored"
+  ],
+  "• Use GPU for Processing (if available):\n  - If checked, the application will attempt to use your GPU for faster processing.\n  - If a GPU is not detected, it will default to CPU processing.\n\n• Please Note:\n  - CPU processing is significantly slower than GPU processing.\n  - Only Nvidia GPUs can be used for GPU processing.": [
+   "stored"
+  ],
+  "When checked, the output will retain the original BPM of the input.": [
+   "stored"
+  ],
+  "Allows the user to save only the selected stem.": [
+   "stored"
+  ],
+  "Normalizes output to prevent clipping.": [
+   "stored"
+  ],
+  "If you have more than one GPU, you can pick which one to use for processing.": [
+   "stored"
+  ],
+  "**Only compatible with select models only!**\n\n Setting should match training crop-size value. Leave as is if unsure.": [
+   "stored"
+  ],
+  "This option performs Test-Time-Augmentation to improve the separation quality.\n\nNote: Having this selected will increase the time it takes to complete a conversion": [
+   "stored"
+  ],
+  "This option can potentially identify leftover instrumental artifacts within the vocal outputs. \nThis option may improve the separation of some songs.\n\nNote: Selecting this option can adversely affect the conversion process, depending on the track. Because of this, it is only recommended as a last resort.": [
+   "stored"
+  ],
+  "The application will mirror the missing frequency range of the output.": [
+   "stored"
+  ],
+  "Performs multiple predictions with random shifts of the input and averages them.\n\n• The higher number of shifts, the longer the prediction will take. \n- Not recommended unless you have a GPU.": [
+   "stored"
+  ],
+  "• This option controls the amount of overlap between prediction windows.\n       - Higher values can provide better results, but will lead to longer processing times.\n       - You can choose between 0.001-0.999": [
+   "stored"
+  ],
+  "• This option controls the amount of overlap between prediction windows.\n       - Higher values can provide better results, but will lead to longer processing times.\n       - For Non-MDX23C models: You can choose between 0.001-0.999": [
+   "stored"
+  ],
+  "• This option controls the amount of overlap between prediction windows.\n       - Higher values can provide better results, but will lead to longer processing times.": [
+   "stored"
+  ],
+  "• The segment size is set based on the value provided in a chosen model's associated \nconfig file (yaml).": [
+   "stored"
+  ],
+  "• Enables \"Segments\". \n• Deselecting this option is only recommended for those with powerful PCs.": [
+   "stored"
+  ],
+  "The application will create the secondary stem by combining the remaining stems \ninstead of inverting the primary stem with the mixture.": [
+   "stored"
+  ],
+  "Compensates the audio of the primary stems to allow for a better secondary stem.": [
+   "stored"
+  ],
+  "• Standard: This setting reduces the noise created by MDX-Net models.\n       - This option only reduces noise in non-MDX23 models.\n• Denoise Model: This setting employs a special denoise model to eliminate noise produced by any MDX-Net model.\n       - This option works on all MDX-Net models.\n       - You must have the \"UVR-DeNoise-Lite\" VR Arch model installed to use this option.\n• Please Note: Both options will increase separation time.": [
+   "stored"
+  ],
+  "• Select a model from the list of lead and backing vocal models to run through vocal stems automatically.": [
+   "stored"
+  ],
+  "• When activated, you will receive extra instrumental outputs that include: one with just the lead vocals and another with only the backing vocals.": [
+   "stored"
+  ],
+  "• When activated, this option auto-processes generated vocal stems, using either a karaoke model to remove lead vocals or another to remove backing vocals.\n       - This option splits the vocal track into two separate parts: lead vocals and backing vocals, providing two extra vocal outputs.\n       - The results will be organized in the same way, whether you use a karaoke model or a background vocal model.\n       - This option does not work in ensemble mode at this time.": [
+   "stored"
+  ],
+  "• Select the vocal type you wish to deverb automatically.\n       - Example: Choosing \"Lead Vocals Only\" will only remove reverb from a lead vocal stem.": [
+   "stored"
+  ],
+  "• This option removes reverb from a vocal stem.\n       - You must have the \"UVR-DeEcho-DeReverb\" VR Arch model installed to use this option.\n       - This option does not work in ensemble mode at this time.": [
+   "stored"
+  ],
+  "Matches the frequency cut-off of the primary stem to that of the secondary stem.": [
+   "stored"
+  ],
+  "Clears settings for unrecognized models chosen by the user.": [
+   "stored"
+  ],
+  "If enabled, all individual ensemble-generated outputs are retained.": [
+   "stored"
+  ],
+  "When enabled, the ensemble name is added to the final output.": [
+   "stored"
+  ],
+  "Processes ensemble algorithms with waveforms instead of spectrograms when activated:\n• Might lead to increased distortion.\n• Waveform ensembling is faster than spectrogram ensembling.": [
+   "stored"
+  ],
+  "Opens official UVR \"Buy Me a Coffee\" external link for project donations!": [
+   "stored"
+  ],
+  "Potentially enhances the secondary stem quality:\n• Inverts primary stem using spectrograms, instead of waveforms.\n• Slightly slower inversion method.": [
+   "stored"
+  ],
+  "Appends a 10-digit number to saved files to avoid accidental overwrites.": [
+   "stored"
+  ],
+  "Appends the model name to outputs for comparison across different models.": [
+   "stored"
+  ],
+  "Allows all types of inputs when enabled, even non-audio formats.\nFor experimental use only. Not recommended for regular use.": [
+   "stored"
+  ],
+  "Plays a chime upon process completion or failure when activated.": [
+   "stored"
+  ],
+  "Contains your saved settings. Confirmation will be requested before deleting a selected setting.": [
+   "stored"
+  ],
+  "Select the primary stem for the given model.": [
+   "stored"
+  ],
+  "Two new directories will be generated for the outputs in the export directory after each conversion.\n\n• Example: \n─ Export Directory\n   └── First Directory (Named after the model)\n           └── Second Directory (Named after the track)\n                    └── Output File(s)": [
+   "stored"
+  ],
+  "Specify the N_FFT size used during model training.": [
+   "stored"
+  ],
+  "Select the required parameters to run the chosen model.": [
+   "stored"
+  ],
+  "Default Ensemble Selections:\n• Save the current ensemble configuration.\n• Clear all selected models.\nNote: You can also select previously saved ensembles.": [
+   "stored"
+  ],
+  "Choose a Processing Method:\nSelect from various AI networks and algorithms to process your track:\n\n• VR Architecture: Uses magnitude spectrograms for source separation.\n• MDX-Net: Employs a Hybrid Spectrogram network for source separation.\n• Demucs v3: Also utilizes a Hybrid Spectrogram network for source separation.\n• Ensemble Mode: Combine results from multiple models and networks for optimal results.\n• Audio Tools: Additional utilities for added convenience.": [
+   "stored"
+  ],
+  "Select Input:\nChoose the audio file(s) you want to process.": [
+   "stored"
+  ],
+  "Input Option Menu:\nClick to access the input option menu.": [
+   "stored"
+  ],
+  "Select Output:\nChoose the directory where the processed files will be saved.": [
+   "stored"
+  ],
+  "Open Input Folder Button:\nOpen the directory containing the selected input audio file(s).": [
+   "stored"
+  ],
+  "Open Output Folder Button:\nOpen the selected output folder.": [
+   "stored"
+  ],
+  "Each processing method has its own set of options and models.\nChoose the model associated with the selected processing method here.": [
+   "stored"
+  ],
+  "Save Outputs As: ": [
+   "stored"
+  ],
+  "When enabled, the application will perform an additional inference using the selected model(s) above.": [
+   "stored"
+  ],
+  "Choose the Secondary Model:\nSelect the secondary model associated with the stem you want to process with the current method.": [
+   "stored"
+  ],
+  "Right click here to choose your inputs!": [
+   "stored"
+  ],
+  "The scale determines how the final audio outputs will be averaged between the primary and secondary models.\n\nFor example:\n\n• 10% - 10 percent of the main model result will be factored into the final result.\n• 50% - The results from the main and secondary models will be averaged evenly.\n• 90% - 90 percent of the main model result will be factored into the final result.": [
+   "stored"
+  ],
+  "When enabled, the application will use the selected model to isolate the instrumental stem.\nSubsequently, all non-vocal stems will be extracted from this generated instrumental.\n\nKey Points:\n• This feature can significantly reduce vocal bleed in non-vocal stems.\n• Available exclusively in the Demucs tool.\n• Compatible only with non-vocal and non-instrumental stem outputs.\n• Expect an increase in total processing time.\n• Only the VR or MDX-Net Vocal Instrumental/Vocals models can be chosen for this process.": [
+   "stored"
+  ],
+  "Select from various audio tools to process your track:\n\n• Manual Ensemble: Requires 2 or more selected files as inputs. This allows tracks to be processed using the algorithms from Ensemble Mode.\n• Time Stretch: Adjust the playback speed of the selected inputs to be faster or slower.\n• Change Pitch: Modify the pitch of the selected inputs.\n• Align Inputs: Choose 2 audio file and the application will align them and provide the difference in alignment.\n    - This tool provides similar functionality to \"Utagoe.\"\n    - Primary Audio: This is usually a mixture.\n    - Secondary Audio: This is usually an instrumental.\n• Matchering: Choose 2 audio files. The matchering algorithm will master the target audio to have the same RMS, FR, peak amplitude, and stereo width as the reference audio.": [
+   "stored"
+  ],
+  "When enabled, the application will generate a third output without the selected stem and vocals.": [
+   "stored"
+  ],
+  "Allows the user to process only part of a track to sample settings or a model without running a full conversion.\n\nNotes:\n\n• The number in the parentheses is the current number of seconds the generated sample will be.\n• You can choose the number of seconds to extract from the track in the \"Additional Settings\" menu.": [
+   "stored"
+  ],
+  "Allows the user to control the intensity of the Post_process option.\n\nNotes:\n\n• Higher values potentially remove more artifacts. However, bleed might increase.\n• Lower values limit artifact removal.": [
+   "stored"
+  ],
+  "Specify the number of batches to be processed at a time.\n\nNotes:\n\n• Higher values mean more RAM usage but slightly faster processing times.\n• Lower values mean less RAM usage but slightly longer processing times.\n• Batch size value has no effect on output quality.": [
+   "stored"
+  ],
+  "Select the phase for the secondary audio.\n• Note: Using the \"Automatic\" option is strongly recommended.": [
+   "stored"
+  ],
+  "Enable this to save the secondary track once aligned.": [
+   "stored"
+  ],
+  "Aligns the initial silence of the secondary audio with the primary audio.\n• Note: Avoid using this option if the primary audio begins solely with vocals.": [
+   "stored"
+  ],
+  "Align the secondary audio based on the primary audio's spectrogram.\n• Note: This may enhance alignment in specific cases.": [
+   "stored"
+  ],
+  "This setting determines the window size for alignment analysis, especially for pairs with minor timing variations:\n\n• None: Disables time window analysis.\n• 1: Analyzes pair by 0.0625-second windows.\n• 2: Analyzes pair by 0.125-second windows.\n• 3: Analyzes pair by 0.25-second windows.\n• 4: Analyzes pair by 0.50-second windows.\n• 5: Analyzes pair by 0.75-second windows.\n• 6: Analyzes pair by 1-second windows.\n• 7: Analyzes pair by 2-second windows.\n\nShifts Options:\n• Low: Cycles through 0.0625 and 0.5-second windows to find an optimal match.\n• Medium: Cycles through 0.0625, 0.125, and 0.5-second windows to find an optimal match.\n• High: Cycles through 0.0625, 0.125, 0.25, and 0.5-second windows to find an optimal match.\n\nImportant Points to Consider:\n    - Using the \"Shifts\" option may require more processing time and might not guarantee better results.\n    - Opting for smaller analysis windows can increase processing times.\n    - The best settings are likely to vary based on the specific tracks being processed.": [
+   "stored"
+  ],
+  "This setting determines the portion of the audio input to be analyzed for initial alignment.\n\n• Default: Analyzes 10% (or 1/10th) of the audio's total length.\n• 1: Analyzes 12.5% (or 1/8th) of the audio's total length.\n• 2: Analyzes 16.67% (or 1/6th) of the audio's total length.\n• 3: Analyzes 25% (or 1/4th) of the audio's total length.\n• 4: Analyzes 50% (or half) of the audio's total length.\n\nShifts Options:\n• Low: Cycles through 2 intro analysis values.\n• Medium: Cycles through 3 intro analysis values.\n• High: Cycles through 5 intro analysis values.\n\nImportant Points to Consider:\n    - Using the \"Shifts\" option will require more processing time and might not guarantee better results.\n    - Optimal settings may vary depending on the specific tracks being processed.": [
+   "stored"
+  ],
+  "This setting specifies the volume adjustments to be made on the secondary input:\n\n• None: No volume adjustments are made.\n• Low: Analyzes the audio within a 4dB range, adjusting in 1dB increments.\n• Medium: Analyzes the audio within a 6dB range, adjusting in 1dB increments.\n• High: Analyzes the audio within a 6dB range, adjusting in 0.5dB increments.\n• Very High: Analyzes the audio within a 10dB range, adjusting in 0.5dB increments.\n\nImportant Points to Consider:\n    - Selecting more extensive analysis options (e.g., High, Very High) will lead to longer processing times.\n    - Optimal settings might vary based on the specific tracks being processed.": [
+   "stored"
+  ],
+  "This setting specifies the phase adjustments to be made on the secondary input:\n\nShifts Options:\n• None: No phase adjustments are made.\n• Very Low: Analyzes the audio within range of 2 different phase positions.\n• Low: Analyzes the audio within range of 4 different phase positions.\n• Medium: Analyzes the audio within range of 8 different phase positions.\n• High: Analyzes the audio within range of 18 different phase positions.\n• Very High: Analyzes the audio within range of 36 different phase positions.\n• Maximum: Analyzes the audio in all 360 phase positions.\n\nImportant Points to Consider:\n    - This option only works with time correction.\n    - This option can be helpful if one of the inputs were from an analog source.\n    - Selecting more extensive analysis options (e.g., High, Very High) will lead to longer processing times.\n    - Selecting \"Maximum\" can take hours to process.\n    - Optimal settings might vary based on the specific tracks being processed.": [
+   "stored"
+  ],
+  "\nAre you sure you wish to continue?": [
+   "stored"
+  ],
+  "Process failed, please see error log\n": [
+   "stored"
+  ],
+  "Loading model...": [
+   "stored"
+  ],
+  "Running inference...": [
+   "stored"
+  ],
+  "Running inference (secondary model)...": [
+   "stored"
+  ],
+  "Running inference (pre-process model)...": [
+   "stored"
+  ],
+  "Splitting vocals...": [
+   "stored"
+  ],
+  "Loading cached secondary model source(s)... Done!\n": [
+   "stored"
+  ],
+  " Model cache loaded.\n": [
+   "stored"
+  ],
+  "Inference complete.": [
+   "stored"
+  ],
+  " Deverbing...": [
+   "stored"
+  ],
+  "Saving all stems...": [
+   "stored"
+  ],
+  "Ensembling outputs...": [
+   "stored"
+  ],
+  " Done!\n": [
+   "stored"
+  ],
+  "Ensembled outputs saved!\n\n": [
+   "stored"
+  ],
+  "CHOOSE PROCESS METHOD": [
+   "stored"
+  ],
+  "SELECT SAVED SETTINGS": [
+   "stored"
+  ],
+  "CHOOSE MDX-NET MODEL": [
+   "stored"
+  ],
+  "BATCH SIZE": [
+   "stored"
+  ],
+  "VOLUME COMPENSATION": [
+   "stored"
+  ],
+  "SEGMENT SIZE": [
+   "stored"
+  ],
+  "CHOOSE VR MODEL": [
+   "stored"
+  ],
+  "AGGRESSION SETTING": [
+   "stored"
+  ],
+  "WINDOW SIZE": [
+   "stored"
+  ],
+  "CHOOSE DEMUCS MODEL": [
+   "stored"
+  ],
+  "CHOOSE STEM(S)": [
+   "stored"
+  ],
+  "SEGMENT": [
+   "stored"
+  ],
+  "ENSEMBLE OPTIONS": [
+   "stored"
+  ],
+  "MAIN STEM PAIR": [
+   "stored"
+  ],
+  "ENSEMBLE ALGORITHM": [
+   "stored"
+  ],
+  "AVAILABLE MODELS": [
+   "stored"
+  ],
+  "CHOOSE AUDIO TOOL": [
+   "stored"
+  ],
+  "CHOOSE ALGORITHM": [
+   "stored"
+  ],
+  "RATE": [
+   "stored"
+  ],
+  "SEMITONES": [
+   "stored"
+  ],
+  "GPU Conversion": [
+   "stored"
+  ],
+  " Invalid input! ": [
+   "stored"
+  ],
+  "Move Selection Up": [
+   "stored"
+  ],
+  "Move Selection Down": [
+   "stored"
+  ],
+  "Clear Box": [
+   "stored"
+  ],
+  "Move Selection to Secondary List": [
+   "stored"
+  ],
+  "Move Selection to Primary List": [
+   "stored"
+  ],
+  "PRIMARY AUDIO": [
+   "stored"
+  ],
+  "SECONDARY AUDIO": [
+   "stored"
+  ],
+  "TARGET AUDIO": [
+   "stored"
+  ],
+  "REFERENCE AUDIO": [
+   "stored"
+  ],
+  "TIME ADJUSTMENT": [
+   "stored"
+  ],
+  "INTRO ANALYSIS": [
+   "stored"
+  ],
+  "VOLUME ADJUSTMENT": [
+   "stored"
+  ],
+  "Select Input(s)": [
+   "stored"
+  ],
+  "Selected Inputs": [
+   "stored"
+  ],
+  "Widen Box": [
+   "stored"
+  ],
+  "Confirm Entries": [
+   "stored"
+  ],
+  "Close Window": [
+   "stored"
+  ],
+  "Dual Audio Batch Processing": [
+   "stored"
+  ],
+  "Cancel": [
+   "stored"
+  ],
+  "Confirm": [
+   "stored"
+  ],
+  "Select Model": [
+   "stored"
+  ],
+  "None Selected": [
+   "stored"
+  ],
+  "Save": [
+   "stored"
+  ],
+  "Overlap": [
+   "stored"
+  ],
+  "Accept Any Input": [
+   "stored"
+  ],
+  "Activate Pre-process Model": [
+   "stored"
+  ],
+  "Activate Secondary Model": [
+   "stored"
+  ],
+  "Additional Menus & Information": [
+   "stored"
+  ],
+  "Additional Settings": [
+   "stored"
+  ],
+  "Advanced Align Tool Options": [
+   "stored"
+  ],
+  "Advanced Ensemble Options": [
+   "stored"
+  ],
+  "Advanced MDX-NET23 Options": [
+   "stored"
+  ],
+  "Advanced Option Menu": [
+   "stored"
+  ],
+  "Aggression Setting": [
+   "stored"
+  ],
+  "Append Ensemble Name": [
+   "stored"
+  ],
+  "Application Download Center": [
+   "stored"
+  ],
+  "Application Updates": [
+   "stored"
+  ],
+  "Audio Format Settings": [
+   "stored"
+  ],
+  "Balance Value": [
+   "stored"
+  ],
+  "Batch Size": [
+   "stored"
+  ],
+  "BV Model": [
+   "stored"
+  ],
+  "Change Model Default": [
+   "stored"
+  ],
+  "Change Model Defaults": [
+   "stored"
+  ],
+  "Change Parameters": [
+   "stored"
+  ],
+  "Choose Advanced Menu": [
+   "stored"
+  ],
+  "Choose Model Param": [
+   "stored"
+  ],
+  "Clear Auto-Set Cache": [
+   "stored"
+  ],
+  "Combine Stems": [
+   "stored"
+  ],
+  "Confirm Update": [
+   "stored"
+  ],
+  "Copied!": [
+   "stored"
+  ],
+  "Copy All Text": [
+   "stored"
+  ],
+  "Defined Parameters Deleted": [
+   "stored"
+  ],
+  "Delete Parameters": [
+   "stored"
+  ],
+  "Delete User Saved Setting": [
+   "stored"
+  ],
+  "Denoise Output": [
+   "stored"
+  ],
+  "Deverb Vocals": [
+   "stored"
+  ],
+  "Done": [
+   "stored"
+  ],
+  "Download Center": [
+   "stored"
+  ],
+  "Download Code": [
+   "stored"
+  ],
+  "Download Link(s)": [
+   "stored"
+  ],
+  "Download Update in Application": [
+   "stored"
+  ],
+  "Enable Help Hints": [
+   "stored"
+  ],
+  "Enable TTA": [
+   "stored"
+  ],
+  "Enable Vocal Split Mode": [
+   "stored"
+  ],
+  "Ensemble Name": [
+   "stored"
+  ],
+  "Ensemble Wavforms": [
+   "stored"
+  ],
+  "Error Console": [
+   "stored"
+  ],
+  "General Menu": [
+   "stored"
+  ],
+  "General Process Settings": [
+   "stored"
+  ],
+  "Generate Model Folder": [
+   "stored"
+  ],
+  "High-End Process": [
+   "stored"
+  ],
+  "Input Code": [
+   "stored"
+  ],
+  "Input Unique Stem Name": [
+   "stored"
+  ],
+  "Is Inverse Stem": [
+   "stored"
+  ],
+  "Karaoke Model": [
+   "stored"
+  ],
+  "Manual Downloads": [
+   "stored"
+  ],
+  "Match Freq Cut-off": [
+   "stored"
+  ],
+  "MDX-Net C Model Parameters": [
+   "stored"
+  ],
+  "MDX-Net Model Settings": [
+   "stored"
+  ],
+  "Model Parameters Changed": [
+   "stored"
+  ],
+  "Model Sample Mode Settings": [
+   "stored"
+  ],
+  "Model Test Mode": [
+   "stored"
+  ],
+  "Mp3 Bitrate": [
+   "stored"
+  ],
+  "Name Settings": [
+   "stored"
+  ],
+  "No Defined Parameters Found": [
+   "stored"
+  ],
+  "No": [
+   "stored"
+  ],
+  "Normalize Output": [
+   "stored"
+  ],
+  "Use OpenCL": [
+   "stored"
+  ],
+  "Not Enough Models": [
+   "stored"
+  ],
+  "Notification Chimes": [
+   "stored"
+  ],
+  "Open Application Directory": [
+   "stored"
+  ],
+  "Open Link to Model": [
+   "stored"
+  ],
+  "Open Model Directory": [
+   "stored"
+  ],
+  "Open Model Folder": [
+   "stored"
+  ],
+  "Open Models Folder": [
+   "stored"
+  ],
+  "Phase Shifts": [
+   "stored"
+  ],
+  "Post-Process": [
+   "stored"
+  ],
+  "Post-process Threshold": [
+   "stored"
+  ],
+  "Pre-process Model": [
+   "stored"
+  ],
+  "Refresh List": [
+   "stored"
+  ],
+  "Remove Saved Ensemble": [
+   "stored"
+  ],
+  "Report Issue": [
+   "stored"
+  ],
+  "Reset All Settings to Default": [
+   "stored"
+  ],
+  "Restart Application": [
+   "stored"
+  ],
+  "Sample Clip Duration": [
+   "stored"
+  ],
+  "Save Aligned Track": [
+   "stored"
+  ],
+  "Save All Outputs": [
+   "stored"
+  ],
+  "Save Current Ensemble": [
+   "stored"
+  ],
+  "Save Instrumental Mixture": [
+   "stored"
+  ],
+  "Save Split Vocal Instrumentals": [
+   "stored"
+  ],
+  "Secondary Phase": [
+   "stored"
+  ],
+  "Seconds": [
+   "stored"
+  ],
+  "Segment Default": [
+   "stored"
+  ],
+  "Segment Size": [
+   "stored"
+  ],
+  "Segments": [
+   "stored"
+  ],
+  "Select Download": [
+   "stored"
+  ],
+  "Select Model Param": [
+   "stored"
+  ],
+  "Select Vocal Type to Deverb": [
+   "stored"
+  ],
+  "Selected Model Placement Path": [
+   "stored"
+  ],
+  "Settings Guide": [
+   "stored"
+  ],
+  "Settings Test Mode": [
+   "stored"
+  ],
+  "Shift Conversion Pitch": [
+   "stored"
+  ],
+  "Shifts": [
+   "stored"
+  ],
+  "Silence Matching": [
+   "stored"
+  ],
+  "Specify MDX-Net Model Parameters": [
+   "stored"
+  ],
+  "Specify Parameters": [
+   "stored"
+  ],
+  "Specify VR Model Parameters": [
+   "stored"
+  ],
+  "Spectral Inversion": [
+   "stored"
+  ],
+  "Spectral Matching": [
+   "stored"
+  ],
+  "Split Mode": [
+   "stored"
+  ],
+  "Stem Name": [
+   "stored"
+  ],
+  "Stop Download": [
+   "stored"
+  ],
+  "Support UVR": [
+   "stored"
+  ],
+  "Try Manual Download": [
+   "stored"
+  ],
+  "Update Found": [
+   "stored"
+  ],
+  "User Download Codes": [
+   "stored"
+  ],
+  "UVR 'Buy Me a Coffee' Link": [
+   "stored"
+  ],
+  "UVR Error Log": [
+   "stored"
+  ],
+  "UVR Patreon Link": [
+   "stored"
+  ],
+  "Vocal Deverb Options": [
+   "stored"
+  ],
+  "Vocal Split Mode Options": [
+   "stored"
+  ],
+  "Vocal Split Options": [
+   "stored"
+  ],
+  "Volume Compensation": [
+   "stored"
+  ],
+  "VR 5.1 Model": [
+   "stored"
+  ],
+  "VR Arch": [
+   "stored"
+  ],
+  "Wav Type": [
+   "stored"
+  ],
+  "GPU Device": [
+   "stored"
+  ],
+  "Window Size": [
+   "stored"
+  ],
+  "Yes": [
+   "stored"
+  ],
+  "Verify Inputs": [
+   "stored"
+  ],
+  "Audio Input Total": [
+   "stored"
+  ],
+  "MDXNET23 Only Options": [
+   "stored"
+  ],
+  "Process starting... ": [
+   "stored"
+  ],
+  "is missing or currupted.": [
+   "stored"
+  ],
+  "are the same.": [
+   "stored"
+  ],
+  "Loading version information...": [
+   "stored"
+  ],
+  "Check for Updates": [
+   "stored"
+  ],
+  "Information unavailable.": [
+   "stored"
+  ],
+  "Are you sure you want to continue?\n\nThe application will need to be restarted.\n": [
+   "stored"
+  ],
+  "Broken or Incompatible File(s) Removed. Check Error Log for details.": [
+   "stored"
+  ],
+  "UVR \"Buy Me a Coffee\" Link": [
+   "stored"
+  ],
+  "(Leave this setting as is if you are unsure.)": [
+   "stored"
+  ],
+  "No Files": [
+   "stored"
+  ],
+  "Choose Input": [
+   "stored"
+  ],
+  "Open Input Directory": [
+   "stored"
+  ],
+  "Batch Process Menu": [
+   "stored"
+  ],
+  "Temp File Deletion": [
+   "stored"
+  ],
+  "Vocal Splitter Options": [
+   "stored"
+  ],
+  "Waveform Ensemble": [
+   "stored"
+  ],
+  "Select Input": [
+   "stored"
+  ],
+  "Select Output": [
+   "stored"
+  ],
+  "Time Correction": [
+   "stored"
+  ],
+  "UVR License Information": [
+   "stored"
+  ],
+  "Additional Resources & Credits": [
+   "stored"
+  ],
+  "WAVE TYPE": [
+   "stored"
+  ],
+  "Ok": [
+   "stored"
+  ],
+  "You must select 2 or more models to save an ensemble.": [
+   "stored"
+  ],
+  "Not enough files to process.\n": [
+   "stored"
+  ],
+  "Obtain codes by visiting one of the following links below.\nFrom there you can donate, pledge, or just obatain the code!\n (Donations are not required to obtain VIP code)": [
+   "stored"
+  ],
+  "Loading model": [
+   "stored"
+  ],
+  "Full Application Settings": [
+   "stored"
+  ],
+  "\n\nProcess stopped by user.": [
+   "stored"
+  ],
+  "Click Here to Roll Back": [
+   "stored"
+  ],
+  "UVR_Patch_10_6_23_4_27": [
+   "stored"
+  ],
+  "<Button-2>": [
+   "stored"
+  ],
+  ".dmg": [
+   "stored"
+  ],
+  "<Button-3>": [
+   "stored"
+  ],
+  ".zip": [
+   "stored"
+  ],
+  ".exe": [
+   "stored"
+  ],
+  "Montserrat": [
+   "stored"
+  ],
+  "Century Gothic": [
+   "stored"
+  ],
+  "ModelData": [
+   "call-arg",
+   "stored"
+  ],
+  "Ensembler": [
+   "call-arg",
+   "stored"
+  ],
+  "AudioTools": [
+   "call-arg",
+   "stored"
+  ],
+  "__main__": [
+   "compared"
+  ],
+  "UVR_Launcher.exe": [
+   "stored"
+  ],
+  "w": [
+   "call-arg"
+  ],
+  "No splash screen.": [
+   "call-arg"
+  ],
+  "wb": [
+   "call-arg"
+  ],
+  "rb": [
+   "call-arg"
+  ],
+  "r": [
+   "call-arg"
+  ],
+  "font_name": [
+   "subscript-key"
+  ],
+  "font_file": [
+   "subscript-key"
+  ],
+  "folder": [
+   "compared"
+  ],
+  "files": [
+   "compared",
+   "stored"
+  ],
+  "vr_model_param": [
+   "subscript-key"
+  ],
+  "primary_stem": [
+   "subscript-key"
+  ],
+  "sr": [
+   "subscript-key"
+  ],
+  "nout": [
+   "subscript-key"
+  ],
+  "nout_lstm": [
+   "subscript-key"
+  ],
+  "config_yaml": [
+   "subscript-key"
+  ],
+  "compensate": [
+   "subscript-key"
+  ],
+  "mdx_dim_f_set": [
+   "subscript-key"
+  ],
+  "mdx_dim_t_set": [
+   "subscript-key"
+  ],
+  "mdx_n_fft_scale_set": [
+   "subscript-key"
+  ],
+  "Ensembled": [
+   "stored"
+  ],
+  "vocals": [
+   "stored"
+  ],
+  "Processing... ": [
+   "call-arg"
+  ],
+  "ToolTip": [
+   "stored"
+  ],
+  "#8B0000": [
+   "stored"
+  ],
+  "ListboxBatchFrame": [
+   "stored"
+  ],
+  "up": [
+   "subscript-key"
+  ],
+  "down": [
+   "subscript-key"
+  ],
+  "copy": [
+   "subscript-key"
+  ],
+  "clear": [
+   "subscript-key"
+  ],
+  "ComboBoxEditableMenu": [
+   "stored"
+  ],
+  "values": [
+   "subscript-key"
+  ],
+  "ComboBoxMenu": [
+   "stored"
+  ],
+  "ThreadSafeConsole": [
+   "stored"
+  ],
+  "\n    Text Widget which is thread safe for tkinter\n    ": [
+   "stored"
+  ],
+  "MainWindow": [
+   "stored"
+  ],
+  "{width}x{height}+{xpad}+{ypad}": [
+   "attr:format",
+   "logic:format"
+  ],
+  "#F6F6F7": [
+   "stored"
+  ],
+  "Is Linux": [
+   "call-arg"
+  ],
+  "Audioread failed to get duration. Trying Librosa...": [
+   "call-arg"
+  ],
+  "Disable": [
+   "stored"
+  ],
+  "voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "other_secondary_model": [
+   "subscript-key"
+  ],
+  "bass_secondary_model": [
+   "subscript-key"
+  ],
+  "drums_secondary_model": [
+   "subscript-key"
+  ],
+  "voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "vr_download_list": [
+   "subscript-key"
+  ],
+  "mdx_download_list": [
+   "subscript-key"
+  ],
+  "demucs_download_list": [
+   "subscript-key"
+  ],
+  "mdx23c_download_list": [
+   "subscript-key"
+  ],
+  "menu": [
+   "subscript-key"
+  ],
+  "^[a-zA-Z0-9 -]{0,25}$": [
+   "stored"
+  ],
+  "6144": [
+   "stored"
+  ],
+  "hyper_parameters": [
+   "subscript-key"
+  ],
+  "dim_f": [
+   "subscript-key"
+  ],
+  "dim_t": [
+   "subscript-key"
+  ],
+  "n_fft": [
+   "subscript-key"
+  ],
+  "target_name": [
+   "subscript-key"
+  ],
+  "deleteensemble": [
+   "compared"
+  ],
+  "current_version_mac": [
+   "subscript-key"
+  ],
+  "current_version_linux": [
+   "subscript-key"
+  ],
+  "current_version": [
+   "subscript-key"
+  ],
+  "VIP Models Added!": [
+   "stored"
+  ],
+  "Incorrect Code": [
+   "stored"
+  ],
+  "vr_download_vip_list": [
+   "subscript-key"
+  ],
+  "mdx_download_vip_list": [
+   "subscript-key"
+  ],
+  "mdx23c_download_vip_list": [
+   "subscript-key"
+  ],
+  "URLError": [
+   "compared"
+  ],
+  "ensemble_main_stem": [
+   "subscript-key"
+  ],
+  "ensemble_type": [
+   "subscript-key"
+  ],
+  "selected_models": [
+   "subscript-key"
+  ],
+  "32-bit Float": [
+   "compared"
+  ],
+  "64-bit Float": [
+   "compared"
+  ],
+  "File": [
+   "stored"
+  ],
+  "{init_text} {file_num}/{total_files} ": [
+   "attr:format",
+   "logic:format"
+  ],
+  "chosen_process_method": [
+   "subscript-key"
+  ],
+  "vr_model": [
+   "subscript-key"
+  ],
+  "aggression_setting": [
+   "subscript-key"
+  ],
+  "window_size": [
+   "subscript-key"
+  ],
+  "mdx_segment_size": [
+   "subscript-key"
+  ],
+  "batch_size": [
+   "subscript-key"
+  ],
+  "crop_size": [
+   "subscript-key"
+  ],
+  "is_tta": [
+   "subscript-key"
+  ],
+  "is_output_image": [
+   "subscript-key"
+  ],
+  "is_post_process": [
+   "subscript-key"
+  ],
+  "is_high_end_process": [
+   "subscript-key"
+  ],
+  "post_process_threshold": [
+   "subscript-key"
+  ],
+  "vr_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_other_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "vr_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_model": [
+   "subscript-key"
+  ],
+  "segment": [
+   "subscript-key"
+  ],
+  "overlap": [
+   "subscript-key"
+  ],
+  "overlap_mdx": [
+   "subscript-key"
+  ],
+  "overlap_mdx23": [
+   "subscript-key"
+  ],
+  "shifts": [
+   "subscript-key"
+  ],
+  "chunks_demucs": [
+   "subscript-key"
+  ],
+  "margin_demucs": [
+   "subscript-key"
+  ],
+  "is_chunk_demucs": [
+   "subscript-key"
+  ],
+  "is_primary_stem_only_Demucs": [
+   "subscript-key"
+  ],
+  "is_secondary_stem_only_Demucs": [
+   "subscript-key"
+  ],
+  "is_split_mode": [
+   "subscript-key"
+  ],
+  "is_demucs_combine_stems": [
+   "subscript-key"
+  ],
+  "is_mdx23_combine_stems": [
+   "subscript-key"
+  ],
+  "demucs_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_other_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "demucs_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_pre_proc_model": [
+   "subscript-key"
+  ],
+  "is_demucs_pre_proc_model_activate": [
+   "subscript-key"
+  ],
+  "is_demucs_pre_proc_model_inst_mix": [
+   "subscript-key"
+  ],
+  "mdx_net_model": [
+   "subscript-key"
+  ],
+  "chunks": [
+   "subscript-key"
+  ],
+  "margin": [
+   "subscript-key"
+  ],
+  "denoise_option": [
+   "subscript-key"
+  ],
+  "phase_option": [
+   "subscript-key"
+  ],
+  "phase_shifts": [
+   "subscript-key"
+  ],
+  "is_save_align": [
+   "subscript-key"
+  ],
+  "is_match_silence": [
+   "subscript-key"
+  ],
+  "is_spec_match": [
+   "subscript-key"
+  ],
+  "is_match_frequency_pitch": [
+   "subscript-key"
+  ],
+  "is_mdx_c_seg_def": [
+   "subscript-key"
+  ],
+  "is_invert_spec": [
+   "subscript-key"
+  ],
+  "is_deverb_vocals": [
+   "subscript-key"
+  ],
+  "deverb_vocal_opt": [
+   "subscript-key"
+  ],
+  "voc_split_save_opt": [
+   "subscript-key"
+  ],
+  "is_mixer_mode": [
+   "subscript-key"
+  ],
+  "mdx_batch_size": [
+   "subscript-key"
+  ],
+  "mdx_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_other_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "mdx_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "is_save_all_outputs_ensemble": [
+   "subscript-key"
+  ],
+  "is_append_ensemble_name": [
+   "subscript-key"
+  ],
+  "chosen_audio_tool": [
+   "subscript-key"
+  ],
+  "choose_algorithm": [
+   "subscript-key"
+  ],
+  "time_stretch_rate": [
+   "subscript-key"
+  ],
+  "pitch_rate": [
+   "subscript-key"
+  ],
+  "is_time_correction": [
+   "subscript-key"
+  ],
+  "semitone_shift": [
+   "subscript-key"
+  ],
+  "mp3_bit_set": [
+   "subscript-key"
+  ],
+  "save_format": [
+   "subscript-key"
+  ],
+  "wav_type_set": [
+   "subscript-key"
+  ],
+  "device_set": [
+   "subscript-key"
+  ],
+  "user_code": [
+   "compared",
+   "subscript-key"
+  ],
+  "is_gpu_conversion": [
+   "subscript-key"
+  ],
+  "is_primary_stem_only": [
+   "subscript-key"
+  ],
+  "is_secondary_stem_only": [
+   "subscript-key"
+  ],
+  "is_testing_audio": [
+   "subscript-key"
+  ],
+  "is_auto_update_model_params": [
+   "subscript-key"
+  ],
+  "is_add_model_name": [
+   "subscript-key"
+  ],
+  "is_accept_any_input": [
+   "subscript-key"
+  ],
+  "is_task_complete": [
+   "subscript-key"
+  ],
+  "is_normalization": [
+   "subscript-key"
+  ],
+  "is_wav_ensemble": [
+   "subscript-key"
+  ],
+  "is_create_model_folder": [
+   "subscript-key"
+  ],
+  "help_hints_var": [
+   "subscript-key"
+  ],
+  "model_sample_mode": [
+   "subscript-key"
+  ],
+  "model_sample_mode_duration": [
+   "subscript-key"
+  ],
+  "set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "is_set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "is_save_inst_set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "export_path": [
+   "subscript-key"
+  ],
+  "input_paths": [
+   "subscript-key"
+  ],
+  "lastDir": [
+   "subscript-key"
+  ],
+  "time_window": [
+   "subscript-key"
+  ],
+  "intro_analysis": [
+   "subscript-key"
+  ],
+  "db_analysis": [
+   "subscript-key"
+  ],
+  "fileOneEntry": [
+   "subscript-key"
+  ],
+  "fileOneEntry_Full": [
+   "subscript-key"
+  ],
+  "fileTwoEntry": [
+   "subscript-key"
+  ],
+  "fileTwoEntry_Full": [
+   "subscript-key"
+  ],
+  "DualBatch_inputPaths": [
+   "subscript-key"
+  ],
+  "is_chunk_mdxnet": [
+   "subscript-key"
+  ],
+  "demucs_stems": [
+   "subscript-key"
+  ],
+  "mdx_stems": [
+   "subscript-key"
+  ],
+  "No information available.": [
+   "stored"
+  ],
+  "utf-8": [
+   "call-arg"
+  ],
+  "UTF-8": [
+   "call-arg"
+  ],
+  "\\(([^()]+)\\)(?=[^()]*\\.wav)": [
+   "stored"
+  ]
+ },
+ "risky": {
+  "Secondary Model": [
+   "compared",
+   "stored"
+  ],
+  "Windows": [
+   "compared"
+  ],
+  "Darwin": [
+   "compared"
+  ],
+  "Linux": [
+   "compared"
+  ],
+  "darwin": [
+   "compared"
+  ],
+  "__main__": [
+   "compared"
+  ],
+  "font_name": [
+   "subscript-key"
+  ],
+  "font_file": [
+   "subscript-key"
+  ],
+  "folder": [
+   "compared"
+  ],
+  "files": [
+   "compared",
+   "stored"
+  ],
+  "vr_model_param": [
+   "subscript-key"
+  ],
+  "primary_stem": [
+   "subscript-key"
+  ],
+  "sr": [
+   "subscript-key"
+  ],
+  "nout": [
+   "subscript-key"
+  ],
+  "nout_lstm": [
+   "subscript-key"
+  ],
+  "config_yaml": [
+   "subscript-key"
+  ],
+  "compensate": [
+   "subscript-key"
+  ],
+  "mdx_dim_f_set": [
+   "subscript-key"
+  ],
+  "mdx_dim_t_set": [
+   "subscript-key"
+  ],
+  "mdx_n_fft_scale_set": [
+   "subscript-key"
+  ],
+  "up": [
+   "subscript-key"
+  ],
+  "down": [
+   "subscript-key"
+  ],
+  "copy": [
+   "subscript-key"
+  ],
+  "clear": [
+   "subscript-key"
+  ],
+  "values": [
+   "subscript-key"
+  ],
+  "{width}x{height}+{xpad}+{ypad}": [
+   "attr:format",
+   "logic:format"
+  ],
+  "voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "other_secondary_model": [
+   "subscript-key"
+  ],
+  "bass_secondary_model": [
+   "subscript-key"
+  ],
+  "drums_secondary_model": [
+   "subscript-key"
+  ],
+  "voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "vr_download_list": [
+   "subscript-key"
+  ],
+  "mdx_download_list": [
+   "subscript-key"
+  ],
+  "demucs_download_list": [
+   "subscript-key"
+  ],
+  "mdx23c_download_list": [
+   "subscript-key"
+  ],
+  "menu": [
+   "subscript-key"
+  ],
+  "hyper_parameters": [
+   "subscript-key"
+  ],
+  "dim_f": [
+   "subscript-key"
+  ],
+  "dim_t": [
+   "subscript-key"
+  ],
+  "n_fft": [
+   "subscript-key"
+  ],
+  "target_name": [
+   "subscript-key"
+  ],
+  "deleteensemble": [
+   "compared"
+  ],
+  "current_version_mac": [
+   "subscript-key"
+  ],
+  "current_version_linux": [
+   "subscript-key"
+  ],
+  "current_version": [
+   "subscript-key"
+  ],
+  "vr_download_vip_list": [
+   "subscript-key"
+  ],
+  "mdx_download_vip_list": [
+   "subscript-key"
+  ],
+  "mdx23c_download_vip_list": [
+   "subscript-key"
+  ],
+  "URLError": [
+   "compared"
+  ],
+  "ensemble_main_stem": [
+   "subscript-key"
+  ],
+  "ensemble_type": [
+   "subscript-key"
+  ],
+  "selected_models": [
+   "subscript-key"
+  ],
+  "32-bit Float": [
+   "compared"
+  ],
+  "64-bit Float": [
+   "compared"
+  ],
+  "{init_text} {file_num}/{total_files} ": [
+   "attr:format",
+   "logic:format"
+  ],
+  "chosen_process_method": [
+   "subscript-key"
+  ],
+  "vr_model": [
+   "subscript-key"
+  ],
+  "aggression_setting": [
+   "subscript-key"
+  ],
+  "window_size": [
+   "subscript-key"
+  ],
+  "mdx_segment_size": [
+   "subscript-key"
+  ],
+  "batch_size": [
+   "subscript-key"
+  ],
+  "crop_size": [
+   "subscript-key"
+  ],
+  "is_tta": [
+   "subscript-key"
+  ],
+  "is_output_image": [
+   "subscript-key"
+  ],
+  "is_post_process": [
+   "subscript-key"
+  ],
+  "is_high_end_process": [
+   "subscript-key"
+  ],
+  "post_process_threshold": [
+   "subscript-key"
+  ],
+  "vr_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_other_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "vr_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "vr_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "vr_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_model": [
+   "subscript-key"
+  ],
+  "segment": [
+   "subscript-key"
+  ],
+  "overlap": [
+   "subscript-key"
+  ],
+  "overlap_mdx": [
+   "subscript-key"
+  ],
+  "overlap_mdx23": [
+   "subscript-key"
+  ],
+  "shifts": [
+   "subscript-key"
+  ],
+  "chunks_demucs": [
+   "subscript-key"
+  ],
+  "margin_demucs": [
+   "subscript-key"
+  ],
+  "is_chunk_demucs": [
+   "subscript-key"
+  ],
+  "is_primary_stem_only_Demucs": [
+   "subscript-key"
+  ],
+  "is_secondary_stem_only_Demucs": [
+   "subscript-key"
+  ],
+  "is_split_mode": [
+   "subscript-key"
+  ],
+  "is_demucs_combine_stems": [
+   "subscript-key"
+  ],
+  "is_mdx23_combine_stems": [
+   "subscript-key"
+  ],
+  "demucs_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_other_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "demucs_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "demucs_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "demucs_pre_proc_model": [
+   "subscript-key"
+  ],
+  "is_demucs_pre_proc_model_activate": [
+   "subscript-key"
+  ],
+  "is_demucs_pre_proc_model_inst_mix": [
+   "subscript-key"
+  ],
+  "mdx_net_model": [
+   "subscript-key"
+  ],
+  "chunks": [
+   "subscript-key"
+  ],
+  "margin": [
+   "subscript-key"
+  ],
+  "denoise_option": [
+   "subscript-key"
+  ],
+  "phase_option": [
+   "subscript-key"
+  ],
+  "phase_shifts": [
+   "subscript-key"
+  ],
+  "is_save_align": [
+   "subscript-key"
+  ],
+  "is_match_silence": [
+   "subscript-key"
+  ],
+  "is_spec_match": [
+   "subscript-key"
+  ],
+  "is_match_frequency_pitch": [
+   "subscript-key"
+  ],
+  "is_mdx_c_seg_def": [
+   "subscript-key"
+  ],
+  "is_invert_spec": [
+   "subscript-key"
+  ],
+  "is_deverb_vocals": [
+   "subscript-key"
+  ],
+  "deverb_vocal_opt": [
+   "subscript-key"
+  ],
+  "voc_split_save_opt": [
+   "subscript-key"
+  ],
+  "is_mixer_mode": [
+   "subscript-key"
+  ],
+  "mdx_batch_size": [
+   "subscript-key"
+  ],
+  "mdx_voc_inst_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_other_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_bass_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_drums_secondary_model": [
+   "subscript-key"
+  ],
+  "mdx_is_secondary_model_activate": [
+   "subscript-key"
+  ],
+  "mdx_voc_inst_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_other_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_bass_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "mdx_drums_secondary_model_scale": [
+   "subscript-key"
+  ],
+  "is_save_all_outputs_ensemble": [
+   "subscript-key"
+  ],
+  "is_append_ensemble_name": [
+   "subscript-key"
+  ],
+  "chosen_audio_tool": [
+   "subscript-key"
+  ],
+  "choose_algorithm": [
+   "subscript-key"
+  ],
+  "time_stretch_rate": [
+   "subscript-key"
+  ],
+  "pitch_rate": [
+   "subscript-key"
+  ],
+  "is_time_correction": [
+   "subscript-key"
+  ],
+  "semitone_shift": [
+   "subscript-key"
+  ],
+  "mp3_bit_set": [
+   "subscript-key"
+  ],
+  "save_format": [
+   "subscript-key"
+  ],
+  "wav_type_set": [
+   "subscript-key"
+  ],
+  "device_set": [
+   "subscript-key"
+  ],
+  "user_code": [
+   "compared",
+   "subscript-key"
+  ],
+  "is_gpu_conversion": [
+   "subscript-key"
+  ],
+  "is_primary_stem_only": [
+   "subscript-key"
+  ],
+  "is_secondary_stem_only": [
+   "subscript-key"
+  ],
+  "is_testing_audio": [
+   "subscript-key"
+  ],
+  "is_auto_update_model_params": [
+   "subscript-key"
+  ],
+  "is_add_model_name": [
+   "subscript-key"
+  ],
+  "is_accept_any_input": [
+   "subscript-key"
+  ],
+  "is_task_complete": [
+   "subscript-key"
+  ],
+  "is_normalization": [
+   "subscript-key"
+  ],
+  "is_wav_ensemble": [
+   "subscript-key"
+  ],
+  "is_create_model_folder": [
+   "subscript-key"
+  ],
+  "help_hints_var": [
+   "subscript-key"
+  ],
+  "model_sample_mode": [
+   "subscript-key"
+  ],
+  "model_sample_mode_duration": [
+   "subscript-key"
+  ],
+  "set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "is_set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "is_save_inst_set_vocal_splitter": [
+   "subscript-key"
+  ],
+  "export_path": [
+   "subscript-key"
+  ],
+  "input_paths": [
+   "subscript-key"
+  ],
+  "lastDir": [
+   "subscript-key"
+  ],
+  "time_window": [
+   "subscript-key"
+  ],
+  "intro_analysis": [
+   "subscript-key"
+  ],
+  "db_analysis": [
+   "subscript-key"
+  ],
+  "fileOneEntry": [
+   "subscript-key"
+  ],
+  "fileOneEntry_Full": [
+   "subscript-key"
+  ],
+  "fileTwoEntry": [
+   "subscript-key"
+  ],
+  "fileTwoEntry_Full": [
+   "subscript-key"
+  ],
+  "DualBatch_inputPaths": [
+   "subscript-key"
+  ],
+  "is_chunk_mdxnet": [
+   "subscript-key"
+  ],
+  "demucs_stems": [
+   "subscript-key"
+  ],
+  "mdx_stems": [
+   "subscript-key"
+  ]
+ }
+}

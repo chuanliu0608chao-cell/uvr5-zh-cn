@@ -1,0 +1,69 @@
+{
+ "Align Inputs": {
+  "translation": "对齐输入",
+  "reasons": [
+   "name used near path api: UVR.pyc:get_audio_file_base:basename; UVR.pyc:get_audio_file_base:splitext"
+  ]
+ },
+ "Choose Option": {
+  "translation": "选择选项",
+  "reasons": [
+   "name used near path api: UVR.pyc:deletion_entry:join; UVR.pyc:deletion_entry:replace"
+  ]
+ },
+ "Demucs_Models": {
+  "translation": "Demucs 模型",
+  "reasons": [
+   "path-call argument: UVR.pyc:<module>:join",
+   "matches a file/folder name in the installation",
+   "shape of an internal identifier, not display text"
+  ]
+ },
+ "File": {
+  "translation": "文件",
+  "reasons": [
+   "matches a file/folder name in the installation"
+  ]
+ },
+ "MDX_Net_Models": {
+  "translation": "MDX-Net 模型",
+  "reasons": [
+   "path-call argument: UVR.pyc:<module>:join",
+   "matches a file/folder name in the installation",
+   "shape of an internal identifier, not display text"
+  ]
+ },
+ "Main_Models": {
+  "translation": "主模型",
+  "reasons": [
+   "path-call argument: UVR.pyc:<module>:join",
+   "shape of an internal identifier, not display text"
+  ]
+ },
+ "No ": {
+  "translation": "无",
+  "reasons": [
+   "name used near path api: constants.pyc:secondary_stem:replace"
+  ]
+ },
+ "Select Saved Ensemble": {
+  "translation": "选择已保存的组合",
+  "reasons": [
+   "name used near path api: UVR.pyc:deletion_entry:join; UVR.pyc:deletion_entry:replace"
+  ]
+ },
+ "UVR_Model": {
+  "translation": "UVR 模型",
+  "reasons": [
+   "shape of an internal identifier, not display text"
+  ]
+ },
+ "VR_Models": {
+  "translation": "VR 模型",
+  "reasons": [
+   "path-call argument: UVR.pyc:<module>:join",
+   "matches a file/folder name in the installation",
+   "shape of an internal identifier, not display text"
+  ]
+ }
+}
